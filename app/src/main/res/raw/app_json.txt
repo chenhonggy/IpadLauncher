@@ -1,0 +1,1 @@
+{specialapp:[{"packagename":"com.moto.main","appicon":""},{"packagename":"com.android.camera","appicon":""}],commonapp:[{"packagename":"com.android.browser","appicon":""},{"packagename":"com.android.browser","appicon":""}]}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">启动器</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="specialapp">特殊应用</string>
+    <string name="recentlyapp">常用应用</string>
+    <string name="otherapp">其他应用</string>
+    <string name="app_home">启动页面</string>
+</resources>
